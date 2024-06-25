@@ -7,7 +7,7 @@ import { Html } from "@react-three/drei"; // Import Html from drei for overlayin
 const Loading = () => {
   return (
     <Html center>
-      <div style={{ color: "white", fontSize: "40px" }}>Loading...</div>
+      <div style={{ color: "white", fontSize: "30px" }}>Loading...</div>
     </Html>
   );
 };
